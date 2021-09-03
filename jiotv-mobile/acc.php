@@ -12,7 +12,7 @@ $header[] = 'Content-Type:application/json';
 $header[] = 'x-api-key: l7xx938b6684ee9e4bbe8831a9a682b8e19f';
 $header[] = 'app-name: RJIL_JioTV';
 
-$payload= '{"identifier":"your-username","password":"your-password","rememberUser":"T","upgradeAuth":"Y","returnSessionDetails":"T","deviceInfo":{"consumptionDeviceName":"samsung SM-G930F","info":{"type":"android","platform":{"name":"SM-G930F","version":"5.1.1"},"androidId":"3022048329094879"}}}';
+$payload= '{"identifier":"+919901912328","password":"9901912328p","rememberUser":"T","upgradeAuth":"Y","returnSessionDetails":"T","deviceInfo":{"consumptionDeviceName":"samsung SM-G930F","info":{"type":"android","platform":{"name":"SM-G930F","version":"5.1.1"},"androidId":"3022048329094879"}}}';
 
 //use own details in ( your-username ) and ( your-password )in above code
 //for example : at place of "identifier":"your-mobile-number-with +91","password":"abcd1234"
